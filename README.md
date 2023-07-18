@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hakkımda:
 17 yaşında kendini boş zamanlarda geliştiren bir geliştiriciyim. Beni tanımak için alt taraftaki Web Site butonuna tıklayarak siteme gidebilirsin.
 
 ## 🌐 Sosyal Medyalarım:
