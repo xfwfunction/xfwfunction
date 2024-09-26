@@ -1,5 +1,8 @@
 # 💫 Hakkımda:
-17 yaşında kendini boş zamanlarda geliştiren bir geliştiriciyim. Beni tanımak için alt taraftaki Web Site butonuna tıklayarak siteme gidebilirsin.
+Merhaba, ben Hasan Durukan, 18 yaşındayım ve JavaScript, HTML, CSS, ve PHP dillerinde bilgi sahibiyim. Kod yazmayı ve projeler geliştirmeyi seven bir yazılım tutkunuyum. Hem frontend hem de backend konularında deneyimim var. Sürekli öğrenmeye ve gelişmeye açık biriyim. Yazılım dünyasında yeni deneyimlere açık, kullanıcı dostu projeler üretmeye odaklanan bir yazılımcıyım.
+
+
+
 
 ## 🌐 Sosyal Medyalarım:
 [![](https://img.shields.io/badge/Web%20Site-black)](https:www.hasandurukan.net/)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hasan.durukan.3162) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/xfwfunction) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hasan-durukan-850052267/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/function_xd) 
